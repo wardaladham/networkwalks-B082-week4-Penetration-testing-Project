@@ -138,7 +138,7 @@ This classic SQLi comment-injection technique caused the backend query to termin
 
 ![Report 1 (Sipho Dlamini) cracked — password 123456](images/pdf1_crack.png)
 
-![Report 2 (Priya Reddy) cracked — password password](images/pdf2_crack.png)
+![Report 2 (Priya Reddy) cracked — password password](/images/pdf2_crack.png)
 
 ![Report 3 (Emily Thompson) cracked using John the Ripper — password !@#$%^&](images/pdf3_crack.png)
 
