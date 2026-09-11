@@ -70,7 +70,7 @@ Sitemap: https://medirozahospital.com/sitemap.xml
 
 **Evidence:**
 
-![robots.txt disclosing sensitive directories](images/robots_txt.png)
+![robots.txt disclosing sensitive directories](images/robots.txt.png)
 
 ---
 
@@ -94,7 +94,7 @@ This backup exposed the full `staff` table, including 30 employee records with f
 
 **Evidence:**
 
-![Exposed database backup with staff table](images/Database_Backup.png)
+![Exposed database backup with staff table](images/Database%20Backup.png)
 
 ---
 
@@ -116,7 +116,7 @@ This classic SQLi comment-injection technique caused the backend query to termin
 
 **Evidence:**
 
-![SQL injection payload used to bypass login](images/Sql_injection.png)
+![SQL injection payload used to bypass login](images/Sql%20injection.png)
 
 ---
 
@@ -136,11 +136,11 @@ This classic SQLi comment-injection technique caused the backend query to termin
 
 ![Encrypted patient PDF reports listed in the patient portal](images/encrypted%20pdf%20files.png)
 
-![Report 1 (Sipho Dlamini) cracked — password 123456](images/pdf1_crack.png)
+![Report 1 (Sipho Dlamini) cracked — password 123456](images/pdf1%20crack.png)
 
-![Report 2 (Priya Reddy) cracked — password password](/images/pdf2_crack.png)
+![Report 2 (Priya Reddy) cracked — password password](/images/pdf2%20crack.png)
 
-![Report 3 (Emily Thompson) cracked using John the Ripper — password !@#$%^&](images/pdf3_crack.png)
+![Report 3 (Emily Thompson) cracked using John the Ripper — password !@#$%^&](images/pdf3%20crack.png)
 
 ---
 
