@@ -134,7 +134,7 @@ This classic SQLi comment-injection technique caused the backend query to termin
 
 **Evidence:**
 
-![Encrypted patient PDF reports listed in the patient portal](images/encrypted_pdf_files.png)
+![Encrypted patient PDF reports listed in the patient portal](images/encrypted%20pdf%20files.png)
 
 ![Report 1 (Sipho Dlamini) cracked — password 123456](images/pdf1_crack.png)
 
